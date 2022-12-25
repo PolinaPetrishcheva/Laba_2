@@ -1,4 +1,4 @@
-# The Legendary Four. "Автоматизация и мониторинг в энергетике"
+# The Legendary Four
 *Команда не участвует в конкурсе*
 ## ✔ Landing Page:
 [Landing Page](https://ownc.avmenergo.ru)
